@@ -1058,7 +1058,7 @@ a {
   }
 }
 .cid-ugycmYgLq3 {
-  background-image: url("../../../assets/images/mbr-1920x1285.jpeg");
+  background-image: url("../../../assets/images/trashwear-276x183.jpg");
 }
 .cid-ugycmYgLq3 .mbr-fallback-image.disabled {
   display: none;
@@ -1083,7 +1083,7 @@ a {
 .cid-ugUqqIsZKj {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-color: #ffe885;
+  background-color: #000000;
 }
 .cid-ugUqqIsZKj .mbr-fallback-image.disabled {
   display: none;
@@ -1097,10 +1097,13 @@ a {
   position: absolute;
   top: 0;
 }
+.cid-ugUqqIsZKj .mbr-section-title {
+  color: #ffffff;
+}
 .cid-ugUpWjPmqY {
   padding-top: 0rem;
   padding-bottom: 6rem;
-  background-color: #ffe885;
+  background-color: #000000;
 }
 .cid-ugUpWjPmqY .mbr-fallback-image.disabled {
   display: none;
@@ -1172,133 +1175,10 @@ a {
 .cid-ugycIbsq5u .row {
   justify-content: center;
 }
-.cid-ugNRGpOisN {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-ugNRGpOisN .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ugNRGpOisN .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-ugNRGpOisN .embla__slide {
-  display: flex;
-  justify-content: center;
-  position: relative;
-  min-width: 570px;
-  max-width: 570px;
-}
-@media (max-width: 768px) {
-  .cid-ugNRGpOisN .embla__slide {
-    min-width: 70%;
-    max-width: initial;
-    margin-left: 1rem !important;
-    margin-right: 1rem !important;
-  }
-}
-.cid-ugNRGpOisN .embla__button--next,
-.cid-ugNRGpOisN .embla__button--prev {
-  display: flex;
-}
-.cid-ugNRGpOisN .embla__button {
-  top: 50%;
-  width: 60px;
-  height: 60px;
-  margin-top: -1.5rem;
-  font-size: 22px;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: #fff;
-  border: 2px solid #fff;
-  border-radius: 50%;
-  transition: all 0.3s;
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-@media (max-width: 768px) {
-  .cid-ugNRGpOisN .embla__button {
-    display: none;
-  }
-}
-.cid-ugNRGpOisN .embla__button:disabled {
-  cursor: default;
-  display: none;
-}
-.cid-ugNRGpOisN .embla__button:hover {
-  background: #000;
-  color: rgba(255, 255, 255, 0.5);
-}
-.cid-ugNRGpOisN .embla__button.embla__button--prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-ugNRGpOisN .embla__button.embla__button--next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-@media (max-width: 768px) {
-  .cid-ugNRGpOisN .embla__button {
-    top: auto;
-  }
-}
-.cid-ugNRGpOisN .user_image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: 0 auto 2rem auto;
-}
-.cid-ugNRGpOisN .user_image .item-wrapper {
-  width: 200px;
-  height: 200px;
-}
-.cid-ugNRGpOisN .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-  object-fit: cover;
-}
-@media (max-width: 230px) {
-  .cid-ugNRGpOisN .user_image {
-    width: 100%;
-    height: auto;
-  }
-}
-.cid-ugNRGpOisN .embla {
-  position: relative;
-  width: 100%;
-}
-.cid-ugNRGpOisN .embla__viewport {
-  overflow: hidden;
-  width: 100%;
-}
-.cid-ugNRGpOisN .embla__viewport.is-draggable {
-  cursor: grab;
-}
-.cid-ugNRGpOisN .embla__viewport.is-dragging {
-  cursor: grabbing;
-}
-.cid-ugNRGpOisN .embla__container {
-  display: flex;
-  user-select: none;
-  -webkit-touch-callout: none;
-  -khtml-user-select: none;
-  -webkit-tap-highlight-color: transparent;
-}
 .cid-ugUzcZGcu9 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffe885;
+  background-color: #e43f3f;
 }
 .cid-ugUzcZGcu9 .mbr-overlay {
   background-color: #ffffff;
@@ -1704,7 +1584,7 @@ a {
 .cid-ugUD2tqhVJ {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffe885;
+  background-color: #e43f3f;
 }
 .cid-ugUD2tqhVJ .mbr-overlay {
   background-color: #ffffff;
@@ -2031,7 +1911,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-ugYOKdg9FP button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2110,7 +1990,7 @@ a {
 .cid-ugYKC5DErU {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffe885;
+  background-color: #e43f3f;
 }
 .cid-ugYKC5DErU .mbr-overlay {
   background-color: #ffffff;
@@ -2127,6 +2007,12 @@ a {
   .cid-ugYKC5DErU form .mbr-section-btn .btn {
     width: 100%;
   }
+}
+.cid-ugYKC5DErU .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-ugYKC5DErU .mbr-section-title {
+  color: #000000;
 }
 .cid-ugUD4eMrqU {
   padding-top: 30px;
